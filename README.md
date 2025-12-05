@@ -7,13 +7,10 @@ Hi, I'm TEST!
 <hr>
 
 ```
-I-am-angelgonzdev@github
 -------------------------
 💻 Soy Estudiante de Ing. de Software especializado en el Desarrollo Backend de Odoo ERP
 📝 Tengo un gran interés en el Desarrollo web, Integraciones y Arquitecturas.
-🌱 Estoy aprendiendo más sobre Buenas practicas, Servicios Cloud y Automatizaciones.
 🌟 Lenguajes principales: Python, React, XML-RPC.
 🚩 Interesado en el desarrollo Backend y Frontend para llegar a hacer Full-Stack.
-💖 Apasionado por crear soluciones que optimicen los procesos empresariales.
 ```
 --------
