@@ -1,61 +1,63 @@
-<!-- Header -->
-<h1 align="center">Amet Marcelo 👋</h1>
+<h1 align="center">Amet Marcelo</h1>
+<p align="center">Full-Stack · Python/Odoo · Integrations · DevOps</p>
+
 <p align="center">
-  Full-Stack (Python/Odoo) · Integraciones · DevOps · Lima, Perú
+  <a href="https://amet.dev">
+    <img alt="Website" src="https://img.shields.io/badge/Website-amet.dev-111111?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/aamet">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aamet-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:quispeamet2@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-quispeamet2%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Ameteratzu">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ameteratzu-111111?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+<hr/>
+
+<h2>Dashboard</h2>
+
+<p align="center">
+  <a href="https://github.com/Ameteratzu">
+    <img height="160" alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Ameteratzu">
+    <img height="160" alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameteratzu&layout=compact&hide_border=true&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://amet.dev"><b>🌐 Portafolio</b></a> ·
-  <a href="https://www.linkedin.com/in/aamet"><b>💼 LinkedIn</b></a> ·
-  <a href="mailto:quispeamet2@gmail.com"><b>✉️ Email</b></a>
+  <a href="https://github.com/Ameteratzu">
+    <img alt="Activity Graph"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Ameteratzu&theme=tokyo-night&hide_border=true" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ameteratzu&style=flat-square" />
-  <img src="https://img.shields.io/badge/Odoo-Backend-875A7B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white" />
+<hr/>
+
+<h2>About</h2>
+
+<ul>
+  <li>Backend: Odoo ERP / Python (modules, QWeb/XML, rules, crons, wizards)</li>
+  <li>Integrations: REST services and external systems</li>
+  <li>DevOps: Docker, CI/CD (Azure DevOps / AWS)</li>
+  <li>Goal: strong backend foundation with full-stack delivery</li>
+</ul>
+
+<h2>Tech</h2>
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white">
+  <img alt="Odoo" src="https://img.shields.io/badge/Odoo-111111?style=flat-square&logo=odoo&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=white">
+  <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-111111?style=flat-square&logo=azuredevops&logoColor=white">
 </p>
-
----
-
-## 📊 Dashboard
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameteratzu&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Ameteratzu&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ameteratzu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🧠 Sobre mí
-- 💻 Backend: **Odoo ERP / Python** (módulos, QWeb/XML, reglas, crons, wizards)
-- 🔌 Integraciones: **REST / servicios externos**
-- ⚙️ DevOps: **Docker, CI/CD** (Azure DevOps / AWS según proyecto)
-- 🌱 En evolución: **Full-Stack** (React/Vue + backend sólido)
-
----
-
-## 🧰 Tech Stack
-**Backend:** Python · Odoo · Flask · Node.js · Laravel  
-**Frontend:** React · Vue.js · HTML/CSS  
-**DevOps/Cloud:** Docker · Kubernetes · CI/CD · Azure DevOps · AWS  
-**DB/Data:** PostgreSQL · MySQL · Power BI · GA4/GTM
-
----
-
-## 🧩 Proyectos (destacados)
-- **Ecommerce + sistema interno** (React + Flask + AWS)
-- **Ecommerce multi-tiendas** (Node.js + MySQL + Prisma + React)
-- **Plataforma tipo trading** (TypeScript + Flask + AWS + microservicios)
-
----
-
-## 🤝 Contacto
-📩 **quispeamet2@gmail.com** · 💼 https://www.linkedin.com/in/aamet · 🌐 https://amet.dev
