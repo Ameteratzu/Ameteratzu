@@ -21,11 +21,8 @@
 <h2>Dashboard</h2>
 
 <p align="center">
-  <img
-    height="170"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
-  />
+  <img height="170" alt="GitHub Stats"
+    src="https://stats-github-readme.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
   <img height="170" alt="Top Languages"
     src="https://stats-github-readme.vercel.app/api/top-langs/?username=Ameteratzu&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 </p>
