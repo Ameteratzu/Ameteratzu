@@ -16,26 +16,89 @@
   </a>
 </p>
 
-<hr/>
-
-<h2>Dashboard</h2>
-
+<!-- HERO (SVG inline) -->
 <p align="center">
-  <img height="170" alt="GitHub Stats"
-    src="https://stats-github-readme.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-  <img height="170" alt="Top Languages"
-    src="https://stats-github-readme.vercel.app/api/top-langs/?username=Ameteratzu&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+  <svg width="100%" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Amet Marcelo Header">
+    <defs>
+      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#6D28D9"/>
+        <stop offset="55%" stop-color="#1f1137"/>
+        <stop offset="100%" stop-color="#0B0B10"/>
+      </linearGradient>
+
+      <radialGradient id="glow" cx="30%" cy="35%" r="60%">
+        <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.55"/>
+        <stop offset="45%" stop-color="#7C3AED" stop-opacity="0.18"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+      </radialGradient>
+
+      <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+        <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.45"/>
+      </filter>
+
+      <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0%" stop-color="#C4B5FD" stop-opacity="0.6"/>
+        <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.25"/>
+        <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+
+    <!-- Background -->
+    <rect width="1200" height="260" rx="26" fill="url(#bg)"/>
+    <rect width="1200" height="260" rx="26" fill="url(#glow)"/>
+
+    <!-- Decorative lines -->
+    <path d="M40 205 C 260 120, 440 250, 720 150 C 920 80, 1040 120, 1160 70" fill="none" stroke="url(#stroke)" stroke-width="2" opacity="0.9"/>
+    <path d="M40 225 C 260 145, 480 270, 740 170 C 940 100, 1040 140, 1160 92" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.25"/>
+
+    <!-- Content card -->
+    <g filter="url(#softShadow)">
+      <rect x="58" y="52" width="1084" height="156" rx="18" fill="#0d1117" opacity="0.72"/>
+      <rect x="58" y="52" width="1084" height="156" rx="18" fill="none" stroke="#A78BFA" stroke-opacity="0.25"/>
+    </g>
+
+    <!-- Text -->
+    <text x="90" y="118" font-size="46" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#EDE9FE" font-weight="800">
+      Amet Marcelo
+    </text>
+
+    <text x="90" y="156" font-size="18" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#C4B5FD" font-weight="600">
+      Full-Stack · Python/Odoo · Integrations · DevOps
+    </text>
+
+    <text x="90" y="186" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#9CA3AF">
+      Lima, Peru · quispeamet2@gmail.com · amet.dev
+    </text>
+
+    <!-- Right badge -->
+    <g>
+      <rect x="952" y="86" width="170" height="44" rx="12" fill="#111827" opacity="0.75"/>
+      <rect x="952" y="86" width="170" height="44" rx="12" fill="none" stroke="#A78BFA" stroke-opacity="0.35"/>
+      <text x="977" y="114" font-size="14" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial" fill="#EDE9FE" font-weight="700">
+        Backend Focus
+      </text>
+    </g>
+  </svg>
 </p>
 
-
+<!-- Links (iconic, modern, purple/black consistent) -->
 <p align="center">
+  <a href="https://amet.dev">
+    <img alt="Website" src="https://img.shields.io/badge/Website-amet.dev-0b0b10?style=for-the-badge&logo=vercel&logoColor=EDE9FE&labelColor=6D28D9">
+  </a>
+  <a href="https://www.linkedin.com/in/aamet">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aamet-0b0b10?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=6D28D9">
+  </a>
+  <a href="mailto:quispeamet2@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-quispeamet2%40gmail.com-0b0b10?style=for-the-badge&logo=gmail&logoColor=EDE9FE&labelColor=6D28D9">
+  </a>
   <a href="https://github.com/Ameteratzu">
-    <img alt="Activity Graph"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Ameteratzu&theme=tokyo-night&hide_border=true" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Ameteratzu-0b0b10?style=for-the-badge&logo=github&logoColor=EDE9FE&labelColor=6D28D9">
   </a>
 </p>
 
 <hr/>
+
 
 <h2>About</h2>
 
