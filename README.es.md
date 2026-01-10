@@ -33,10 +33,10 @@
 
 Soy **Amet**, un ingeniero de software dedicado a construir sistemas backend robustos y explorar el desarrollo full-stack. Me especializo en la personalización e integración del **ERP Odoo**.
 
-- 🔭 Actualmente trabajando en **desarrollo de módulos Odoo y migraciones Enterprise**.
-- 🌱 Actualmente aprendiendo **patrones avanzados de React y Next.js**.
-- 👯 Buscando colaborar en **proyectos Open Source de Odoo**.
-- 🥅 Metas: **Dominar arquitecturas Cloud Native**.
+- Actualmente trabajando en **desarrollo de módulos Odoo y migraciones Enterprise**.
+- Actualmente aprendiendo **patrones avanzados de React y Next.js**.
+- Buscando colaborar en **proyectos Open Source de Odoo**.
+- Metas: **Dominar arquitecturas Cloud Native**.
 
 <hr/>
 
