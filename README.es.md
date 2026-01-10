@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="./README.es.md">
-    <img src="https://img.shields.io/badge/Leer_en_Español-0b0b10?style=for-the-badge&logo=google-translate&logoColor=F5F3FF&labelColor=6D28D9" alt="Leer en Español">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Read_in_English-0b0b10?style=for-the-badge&logo=google-translate&logoColor=F5F3FF&labelColor=6D28D9" alt="Read in English">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6D28D9&center=true&vCenter=true&width=435&lines=Backend+Developer;Odoo+Specialist;Full+Stack+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6D28D9&center=true&vCenter=true&width=435&lines=Desarrollador+Backend;Especialista+en+Odoo;Aprendiz+Full+Stack" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://amet.dev">
-    <img alt="Website" src="https://img.shields.io/badge/Website-amet.dev-0b0b10?style=for-the-badge&logo=vercel&logoColor=F5F3FF&labelColor=6D28D9">
+    <img alt="Sitio Web" src="https://img.shields.io/badge/Sitio_Web-amet.dev-0b0b10?style=for-the-badge&logo=vercel&logoColor=F5F3FF&labelColor=6D28D9">
   </a>
   <a href="https://www.linkedin.com/in/aamet">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-aamet-0b0b10?style=for-the-badge&logo=linkedin&logoColor=F5F3FF&labelColor=6D28D9">
@@ -29,20 +29,20 @@
 
 <hr/>
 
-### 👨‍💻 About Me
+### 👨‍💻 Sobre Mí
 
-I'm **Amet**, a software engineer engaged in building robust backend systems and exploring full-stack development. I specialize in **Odoo ERP** customization and integration.
+Soy **Amet**, un ingeniero de software dedicado a construir sistemas backend robustos y explorar el desarrollo full-stack. Me especializo en la personalización e integración del **ERP Odoo**.
 
-- I’m currently working on **Odoo module development and Enterprise migrations**.
-- I’m currently learning **Advanced React patterns and Next.js**.
-- I’m looking to collaborate on **Open Source Odoo projects**.
-- Goals: **Mastering Cloud Native architectures**.
+- 🔭 Actualmente trabajando en **desarrollo de módulos Odoo y migraciones Enterprise**.
+- 🌱 Actualmente aprendiendo **patrones avanzados de React y Next.js**.
+- 👯 Buscando colaborar en **proyectos Open Source de Odoo**.
+- 🥅 Metas: **Dominar arquitecturas Cloud Native**.
 
 <hr/>
 
-### 🛠️ Tech Stack
+### 🛠️ Stack Tecnológico
 
-**Languages**
+**Lenguajes**
 <br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -57,7 +57,7 @@ I'm **Amet**, a software engineer engaged in building robust backend systems and
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-**Backend & Database**
+**Backend y Bases de Datos**
 <br>
 <img alt="Odoo" src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
@@ -67,7 +67,7 @@ I'm **Amet**, a software engineer engaged in building robust backend systems and
 <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 
-**DevOps & Cloud**
+**DevOps y Nube**
 <br>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
@@ -79,7 +79,7 @@ I'm **Amet**, a software engineer engaged in building robust backend systems and
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-**Tools**
+**Herramientas**
 <br>
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
@@ -92,7 +92,7 @@ I'm **Amet**, a software engineer engaged in building robust backend systems and
 
 <hr/>
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   <img height="180" alt="GitHub Stats" src="https://stats-github-readme.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=6D28D9&text_color=c9d1d9&icon_color=6D28D9&cache_seconds=21600" />
