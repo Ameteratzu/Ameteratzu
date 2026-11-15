@@ -46,7 +46,26 @@ Parte de esta experiencia corresponde a proyectos internos y repositorios privad
   </tr>
 </table>
 
-## Proyectos independientes
+## Más experiencia · Software, automatización y datos
+
+<table>
+<tr><td valign="top"><img src="./assets/icons/build.svg" width="26" alt="" /><h3><a href="https://www.worki360.com/">Worki360</a></h3><strong>Implementación · Correcciones · Soporte · Ads</strong><p>Trabajé en la implementación de soluciones, corrección de incidencias y apoyo al soporte. También contribuí con mejoras de posicionamiento y publicidad digital (Ads).</p></td></tr>
+<tr><td valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3><a href="https://wazabot.pe/">Wazabot</a></h3><strong>Experiencia en plataformas de comunicación</strong><p>Trabajé en Wazabot. Mi experiencia adicional incluye chatbots, scripts y automatizaciones para Telegram y consumo de datos para distintas empresas.</p></td></tr>
+</table>
+
+### Automatización e integración
+
+Scripts y flujos para Telegram, chatbots e integración de fuentes de datos para distintas empresas. Trabajo orientado a conectar herramientas, reducir tareas repetitivas y facilitar el acceso a información operativa.
+
+### Analítica financiera · Power BI
+
+Trabajé con dashboards de finanzas y tesorería en Power BI, orientados a visualizar información financiera y apoyar el seguimiento de la operación y la toma de decisiones.
+
+### MetaTrader 5 · Automatización de operaciones
+
+Trabajé con automatizaciones y flujos de compra y venta en MT5. Esta experiencia se centra en procesos técnicos de operación; los detalles de estrategias, ejecución y resultados se documentarán por proyecto.
+
+## Proyectos independientes seleccionados
 
 Desarrollo productos SaaS, ecommerce y plataformas de gestión para necesidades concretas. Selección de proyectos publicados en [amet.dev](https://amet.dev/).
 

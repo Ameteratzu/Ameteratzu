@@ -46,7 +46,26 @@ Some of this experience comes from internal projects and private repositories. T
   </tr>
 </table>
 
-## Independent projects
+## More experience · Software, automation and data
+
+<table>
+<tr><td valign="top"><img src="./assets/icons/build.svg" width="26" alt="" /><h3><a href="https://www.worki360.com/">Worki360</a></h3><strong>Implementation · Fixes · Support · Ads</strong><p>Worked on solution implementation, issue resolution and support assistance. Also contributed to improvements in digital visibility and advertising (Ads).</p></td></tr>
+<tr><td valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3><a href="https://wazabot.pe/">Wazabot</a></h3><strong>Experience with communication platforms</strong><p>Worked at Wazabot. My broader experience includes chatbots, Telegram scripts and automation, and consuming data sources for different companies.</p></td></tr>
+</table>
+
+### Automation and integration
+
+Telegram scripts and workflows, chatbots and data source integrations for different companies. Work focused on connecting tools, reducing repetitive tasks and making operational information accessible.
+
+### Financial analytics · Power BI
+
+Worked with finance and treasury dashboards in Power BI to visualize financial information and support operational monitoring and decision-making.
+
+### MetaTrader 5 · Trading workflow automation
+
+Worked with automation and buy/sell workflows in MT5. This experience focuses on technical operational processes; strategy, execution and outcome details will be documented per project.
+
+## Selected independent projects
 
 I build SaaS products, ecommerce and management platforms around concrete business needs. Selected work published on [amet.dev](https://amet.dev/).
 
