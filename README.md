@@ -79,6 +79,10 @@ I build SaaS products, ecommerce and management platforms around concrete busine
 </tr>
 </table>
 
+<table>
+<tr><td valign="top"><img src="./assets/icons/lab.svg" width="26" alt="" /><h3>EPIK Project</h3><strong>Events · Electronic music · Community</strong><p>Web platform showcasing electronic music events and experiences, with a gallery, community and user access. A digital experience connecting the brand with its audience and promoting its events.</p><a href="https://epik-project.com/">Visit EPIK Project →</a></td></tr>
+</table>
+
 More projects and screenshots on [my portfolio](https://amet.dev/).
 
 ### AWS architecture · Technical case

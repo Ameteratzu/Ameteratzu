@@ -79,6 +79,10 @@ Desarrollo productos SaaS, ecommerce y plataformas de gestión para necesidades 
 </tr>
 </table>
 
+<table>
+<tr><td valign="top"><img src="./assets/icons/lab.svg" width="26" alt="" /><h3>EPIK Project</h3><strong>Eventos · Música electrónica · Comunidad</strong><p>Plataforma web para presentar eventos y experiencias de música electrónica, con galería, comunidad y acceso de usuarios. Una experiencia digital orientada a conectar la marca con su audiencia y promover sus eventos.</p><a href="https://epik-project.com/">Visitar EPIK Project →</a></td></tr>
+</table>
+
 Más proyectos y capturas en [mi portafolio](https://amet.dev/).
 
 ### Arquitectura AWS · Caso técnico
