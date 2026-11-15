@@ -11,11 +11,9 @@
 
 <p align="center">Empiezo por Odoo: entiendo el flujo, elimino la fricción y construyo las integraciones que hacen que la operación funcione mejor.<br>Python como base · Cloud cuando aporta · Lima, Perú</p>
 
-<p align="center"><img src="./assets/odoo-backend-flow-transparent.png" alt="Flujo de ERP, APIs, base de datos e infraestructura cloud" /></p>
+<p align="center"><img src="./assets/odoo-devops.svg" width="1000" alt="Arquitectura animada de Odoo: Git, validación CI, despliegue Docker, proxy HTTPS, Odoo, PostgreSQL y filestore persistente" /></p>
 
-<p align="center"><sub>ERP → APIs → Datos → Cloud</sub></p>
-
-<p align="center"><img src="./assets/terminal-loop-transparent.png" alt="Terminal con actividad de despliegue backend" /></p>
+<p align="center"><sub>Arquitectura ilustrativa · Los puntos representan despliegues y solicitudes. CI valida los cambios antes del despliegue; Odoo persiste los datos en PostgreSQL y los adjuntos en el filestore.</sub></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Diseñando+sistemas+que+resisten+el+mundo+real;Automatizando+lo+repetitivo;Haciendo+simples+los+flujos+complejos" alt="Diseñando sistemas que resisten el mundo real · Automatizando lo repetitivo · Haciendo simples los flujos complejos" /></a></p>
 
