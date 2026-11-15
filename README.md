@@ -4,28 +4,28 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Backend+Engineer;Odoo+%26+ERP+Specialist;Integrations+%26+Cloud+Enthusiast" alt="Backend Engineer · Odoo and ERP Specialist · Integrations and Cloud Enthusiast" /></a></p>
 
-<h2 align="center">Backend systems for real business workflows.</h2>
+<h2 align="center">I turn messy business processes into clean backend systems.</h2>
 
-<p align="center">I customize Odoo, build Python services and connect the systems that keep a business moving.<br>Based in Lima, Peru · Available for open-source collaboration and interesting problems.</p>
+<p align="center">Odoo is where I start: I map the workflow, remove the friction and build the integrations that make the operation feel effortless.<br>Python at the core · Cloud when it helps · Lima, Peru</p>
 
 <p align="center"><img src="./assets/odoo-backend-flow.gif" alt="Animated flow from ERP and APIs to database and cloud infrastructure" /></p>
 
 <p align="center"><sub>ERP → APIs → Data → Cloud</sub></p>
 
-## What I build
+## The work behind the screen
 
 | Focus | What that looks like |
 | --- | --- |
-| **Odoo & ERP** | Custom modules, integrations, workflows and Enterprise migrations |
-| **Backend engineering** | Python services, APIs, databases and maintainable business logic |
-| **Delivery & infrastructure** | Docker, CI/CD, cloud deployments and developer tooling |
-| **Systems thinking** | Translating business workflows into maintainable software |
+| **Untangle the workflow** | Custom Odoo modules, ERP migrations and business rules that make sense |
+| **Connect the operation** | Python APIs, integrations and data flows between the tools a team already uses |
+| **Make it dependable** | PostgreSQL, Docker, CI/CD and cloud delivery with fewer surprises |
+| **Keep learning in public** | Small experiments in React, Next.js and cloud-native architecture |
 
-## How I work
+## My engineering north star
 
-- **Understand the workflow** before choosing the technology.
-- **Integrate the right systems** instead of adding unnecessary complexity.
-- **Ship maintainable software** with clear boundaries and reliable delivery.
+- **Business first.** The best architecture is the one that makes the real workflow easier.
+- **Boring where it matters.** Clear boundaries, predictable data and code people can maintain.
+- **Curious by default.** I like learning new tools, but only when they solve a real problem.
 
 ## Toolkit
 
@@ -43,4 +43,4 @@
 - Deepening my knowledge of **React, Next.js and cloud-native architecture**.
 - Looking to collaborate on **open-source Odoo and developer-tooling projects**.
 
-<p align="center"><sub>Always learning. Always shipping something a little better.</sub></p>
+<p align="center"><strong>Building the invisible systems that keep visible work moving.</strong></p>

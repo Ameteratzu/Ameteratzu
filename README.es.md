@@ -4,28 +4,28 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ingeniero+Backend;Especialista+en+Odoo+%26+ERP;Integraciones+%26+Cloud" alt="Ingeniero Backend · Especialista en Odoo y ERP · Integraciones y Cloud" /></a></p>
 
-<h2 align="center">Sistemas backend para flujos de negocio reales.</h2>
+<h2 align="center">Convierto procesos de negocio complejos en sistemas backend claros.</h2>
 
-<p align="center">Personalizo Odoo, construyo servicios en Python y conecto los sistemas que mantienen un negocio en movimiento.<br>Desde Lima, Perú · Disponible para colaborar en open source y resolver problemas interesantes.</p>
+<p align="center">Empiezo por Odoo: entiendo el flujo, elimino la fricción y construyo las integraciones que hacen que la operación funcione mejor.<br>Python como base · Cloud cuando aporta · Lima, Perú</p>
 
 <p align="center"><img src="./assets/odoo-backend-flow.gif" alt="Flujo animado desde ERP y APIs hacia base de datos e infraestructura cloud" /></p>
 
 <p align="center"><sub>ERP → APIs → Datos → Cloud</sub></p>
 
-## Qué construyo
+## El trabajo detrás de la pantalla
 
 | Área | Qué hago |
 | --- | --- |
-| **Odoo y ERP** | Módulos personalizados, integraciones, flujos y migraciones Enterprise |
-| **Backend** | Servicios en Python, APIs, bases de datos y lógica de negocio mantenible |
-| **Entrega e infraestructura** | Docker, CI/CD, despliegues cloud y herramientas para desarrollo |
-| **Pensamiento sistémico** | Convertir flujos de negocio en software mantenible |
+| **Ordenar el flujo** | Módulos Odoo, migraciones ERP y reglas de negocio que sí se entienden |
+| **Conectar la operación** | APIs Python, integraciones y flujos de datos entre las herramientas de un equipo |
+| **Hacerlo confiable** | PostgreSQL, Docker, CI/CD y cloud con menos sorpresas |
+| **Seguir aprendiendo** | Experimentos con React, Next.js y arquitecturas cloud-native |
 
-## Cómo trabajo
+## Mi brújula de ingeniería
 
-- **Entiendo el flujo** antes de elegir la tecnología.
-- **Integro los sistemas correctos** sin añadir complejidad innecesaria.
-- **Entrego software mantenible** con límites claros y despliegues confiables.
+- **Primero el negocio.** La mejor arquitectura es la que facilita el flujo real.
+- **Simple donde importa.** Límites claros, datos previsibles y código mantenible.
+- **Curiosidad con propósito.** Aprendo herramientas nuevas cuando resuelven un problema real.
 
 ## Herramientas
 
@@ -43,4 +43,4 @@
 - Profundizando en **React, Next.js y arquitecturas cloud-native**.
 - Buscando colaborar en **proyectos open source de Odoo y herramientas para desarrolladores**.
 
-<p align="center"><sub>Siempre aprendiendo. Siempre entregando algo un poco mejor.</sub></p>
+<p align="center"><strong>Construyendo los sistemas invisibles que mantienen en movimiento el trabajo visible.</strong></p>
