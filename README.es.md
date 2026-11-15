@@ -16,6 +16,24 @@
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Diseñando+sistemas+que+resisten+el+mundo+real;Automatizando+lo+repetitivo;Haciendo+simples+los+flujos+complejos" alt="Diseñando sistemas que resisten el mundo real · Automatizando lo repetitivo · Haciendo simples los flujos complejos" /></a></p>
 
+## Experiencia aplicada
+
+<p>He trabajado en proyectos de distintos tipos —implementaciones ERP, ecommerce, inventarios, APIs, automatización y entregas cloud—. Esa variedad define mi forma de construir: primero entiendo la operación y luego conecto las piezas correctas.</p>
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><img src="./assets/icons/blocks.svg" width="24" alt="" /><br><strong>ERP en producción</strong><br><sub>Implementando Odoo 17, 18 y 19 para empresas peruanas, adaptando módulos y flujos a cada operación.</sub></td>
+    <td width="33%" valign="top"><img src="./assets/icons/integration.svg" width="24" alt="" /><br><strong>Operaciones conectadas</strong><br><sub>Ventas, inventario, ecommerce, facturación y logística convertidos en procesos más claros.</sub></td>
+    <td width="33%" valign="top"><img src="./assets/icons/reliable.svg" width="24" alt="" /><br><strong>Entrega cloud</strong><br><sub>Despliegues automatizados y arquitecturas diseñadas para crecer sin perder claridad.</sub></td>
+  </tr>
+</table>
+
+## Arquitectura destacada
+
+<table>
+  <tr><td width="15%" align="center"><img src="./assets/icons/target.svg" width="34" alt="" /></td><td><strong>Arquitectura CI/CD sobre AWS</strong><br><sub>GitHub Actions, Amplify, EC2, API Gateway, Aurora/RDS, Redis y S3 trabajando juntos en un flujo de entrega claro.</sub><br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7481566963144564736/">Ver el análisis de la arquitectura en LinkedIn →</a></td></tr>
+</table>
+
 ## El trabajo detrás de la pantalla
 
 <table>
