@@ -8,11 +8,11 @@
 
 <p align="center">Odoo is where I start: I map the workflow, remove the friction and build the integrations that make the operation feel effortless.<br>Python at the core · Cloud when it helps · Lima, Peru</p>
 
-<p align="center"><img src="./assets/odoo-backend-flow.gif" alt="Animated flow from ERP and APIs to database and cloud infrastructure" /></p>
+<p align="center"><img src="./assets/odoo-backend-flow-transparent.png" alt="ERP, APIs, database and cloud infrastructure flow" /></p>
 
 <p align="center"><sub>ERP → APIs → Data → Cloud</sub></p>
 
-<p align="center"><img src="./assets/terminal-loop.gif" alt="Animated terminal with backend deployment activity" /></p>
+<p align="center"><img src="./assets/terminal-loop-transparent.png" alt="Terminal with backend deployment activity" /></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Designing+systems+that+survive+the+real+world;Automating+the+boring+parts;Making+complex+flows+feel+simple" alt="Designing systems that survive the real world · Automating the boring parts · Making complex flows feel simple" /></a></p>
 

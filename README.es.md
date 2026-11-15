@@ -8,11 +8,11 @@
 
 <p align="center">Empiezo por Odoo: entiendo el flujo, elimino la fricción y construyo las integraciones que hacen que la operación funcione mejor.<br>Python como base · Cloud cuando aporta · Lima, Perú</p>
 
-<p align="center"><img src="./assets/odoo-backend-flow.gif" alt="Flujo animado desde ERP y APIs hacia base de datos e infraestructura cloud" /></p>
+<p align="center"><img src="./assets/odoo-backend-flow-transparent.png" alt="Flujo de ERP, APIs, base de datos e infraestructura cloud" /></p>
 
 <p align="center"><sub>ERP → APIs → Datos → Cloud</sub></p>
 
-<p align="center"><img src="./assets/terminal-loop.gif" alt="Terminal animada con actividad de despliegue backend" /></p>
+<p align="center"><img src="./assets/terminal-loop-transparent.png" alt="Terminal con actividad de despliegue backend" /></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=900&color=34D399&center=true&vCenter=true&width=560&lines=Diseñando+sistemas+que+resisten+el+mundo+real;Automatizando+lo+repetitivo;Haciendo+simples+los+flujos+complejos" alt="Diseñando sistemas que resisten el mundo real · Automatizando lo repetitivo · Haciendo simples los flujos complejos" /></a></p>
 
