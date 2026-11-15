@@ -52,15 +52,15 @@ I build SaaS products, ecommerce and management platforms around concrete busine
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Apifyx</h3><p>SUNAT information queries and business verification supporting administrative and commercial workflows in Peru.</p><a href="https://apifyx.amet.dev/">Explore Apifyx →</a></td>
-<td width="50%" valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Legal99</h3><p>Legal practice management bringing clients, cases, schedules, documents and billing together.</p><a href="https://applegal99.com/">Explore Legal99 →</a></td>
+<td width="50%" valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Imporisel</h3><strong>Software that grows with the business</strong><p>Commercial platform for diesel parts, with subsequent improvements to inventory control and sales order customization.</p><a href="https://imporisel.com/">Visit Imporisel →</a></td>
+<td width="50%" valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Bodapass</h3><strong>A customizable digital product</strong><p>Digital wedding invitation platform with personalized designs and an experience adapted to phones, tablets and desktops.</p><a href="https://bodapass.com/">Explore Bodapass →</a></td>
 </tr><tr>
 <td valign="top"><img src="./assets/icons/build.svg" width="26" alt="" /><h3>Entryx</h3><p>Event management, tickets and attendance control with capacity settings, custom registration and attendee exports.</p><a href="https://entryx.pe/">Explore Entryx →</a></td>
 <td valign="top"><img src="./assets/icons/blocks.svg" width="26" alt="" /><h3>Centro Joyero</h3><p>Jewelry ecommerce with a product catalog and branded shopping experience. Built with React and Vite.</p><a href="https://centrojoyero.com.pe/">Visit Centro Joyero →</a></td>
 </tr>
 </table>
 
-Also: [Imporisel](https://imporisel.com/), [Bodapass](https://bodapass.com/), [APYCE Libros](https://librosapyce.com.pe/), [Madelly](https://madelly.pe/) and [EPIK Project](https://epik-project.com/).
+More projects and screenshots on [my portfolio](https://amet.dev/).
 
 ### AWS architecture · Technical case
 

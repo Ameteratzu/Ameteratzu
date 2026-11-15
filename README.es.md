@@ -52,15 +52,15 @@ Desarrollo productos SaaS, ecommerce y plataformas de gestión para necesidades 
 
 <table>
 <tr>
-<td width="50%" valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Apifyx</h3><p>Consultas de información SUNAT y validación empresarial para apoyar procesos administrativos y comerciales en Perú.</p><a href="https://apifyx.amet.dev/">Explorar Apifyx →</a></td>
-<td width="50%" valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Legal99</h3><p>Gestión jurídica que centraliza clientes, casos, agenda, documentos y facturación.</p><a href="https://applegal99.com/">Explorar Legal99 →</a></td>
+<td width="50%" valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Imporisel</h3><strong>Software que evoluciona con el negocio</strong><p>Plataforma comercial de repuestos diésel, con mejoras posteriores en control de inventario y personalización de órdenes de venta.</p><a href="https://imporisel.com/">Visitar Imporisel →</a></td>
+<td width="50%" valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Bodapass</h3><strong>Producto digital personalizable</strong><p>Plataforma de invitaciones digitales de boda, con diseños personalizados y una experiencia adaptada a móviles, tablets y ordenadores.</p><a href="https://bodapass.com/">Explorar Bodapass →</a></td>
 </tr><tr>
 <td valign="top"><img src="./assets/icons/build.svg" width="26" alt="" /><h3>Entryx</h3><p>Gestión de eventos, tickets y control de asistencia: aforo, registro personalizado, exportaciones y seguimiento.</p><a href="https://entryx.pe/">Explorar Entryx →</a></td>
 <td valign="top"><img src="./assets/icons/blocks.svg" width="26" alt="" /><h3>Centro Joyero</h3><p>Ecommerce de joyería con catálogo y experiencia de marca. Desarrollado con React y Vite.</p><a href="https://centrojoyero.com.pe/">Visitar Centro Joyero →</a></td>
 </tr>
 </table>
 
-También: [Imporisel](https://imporisel.com/), [Bodapass](https://bodapass.com/), [APYCE Libros](https://librosapyce.com.pe/), [Madelly](https://madelly.pe/) y [EPIK Project](https://epik-project.com/).
+Más proyectos y capturas en [mi portafolio](https://amet.dev/).
 
 ### Arquitectura AWS · Caso técnico
 
