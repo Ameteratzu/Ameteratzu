@@ -18,33 +18,39 @@
 
 ## El trabajo detrás de la pantalla
 
-| Área | Qué hago |
-| --- | --- |
-| **Ordenar el flujo** | Módulos Odoo, migraciones ERP y reglas de negocio que sí se entienden |
-| **Conectar la operación** | APIs Python, integraciones y flujos de datos entre las herramientas de un equipo |
-| **Hacerlo confiable** | PostgreSQL, Docker, CI/CD y cloud con menos sorpresas |
-| **Seguir aprendiendo** | Experimentos con React, Next.js y arquitecturas cloud-native |
+<table>
+  <tr>
+    <td width="50%" valign="top"><h3>🧩 Ordenar el flujo</h3><p>Módulos Odoo, migraciones ERP y reglas de negocio que sí se entienden.</p></td>
+    <td width="50%" valign="top"><h3>🔌 Conectar la operación</h3><p>APIs Python, integraciones y flujos de datos entre las herramientas de un equipo.</p></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><h3>🛡️ Hacerlo confiable</h3><p>PostgreSQL, Docker, CI/CD y cloud con menos sorpresas.</p></td>
+    <td width="50%" valign="top"><h3>🧪 Seguir aprendiendo</h3><p>Experimentos con React, Next.js y arquitecturas cloud-native.</p></td>
+  </tr>
+</table>
 
 ## Mi brújula de ingeniería
 
-- **Primero el negocio.** La mejor arquitectura es la que facilita el flujo real.
-- **Simple donde importa.** Límites claros, datos previsibles y código mantenible.
-- **Curiosidad con propósito.** Aprendo herramientas nuevas cuando resuelven un problema real.
+<p align="center"><strong>Entender → Integrar → Automatizar → Mejorar</strong></p>
+
+<table>
+  <tr><td>🎯 <strong>Primero el negocio</strong></td><td>La mejor arquitectura facilita el flujo real.</td></tr>
+  <tr><td>🧱 <strong>Simple donde importa</strong></td><td>Límites claros, datos previsibles y código mantenible.</td></tr>
+  <tr><td>🔭 <strong>Curiosidad con propósito</strong></td><td>Aprendo herramientas nuevas cuando resuelven un problema real.</td></tr>
+</table>
 
 ## Herramientas
 
-**Backend:** `Python` · `Odoo` · `PostgreSQL` · `MySQL` · `Node.js` · `Laravel` · `Flask` · `.NET`
-
-**Frontend:** `JavaScript` · `TypeScript` · `React` · `Next.js` · `Vue` · `HTML` · `CSS`
-
-**Entrega:** `Docker` · `Kubernetes` · `AWS` · `Azure` · `OpenShift` · `Keycloak` · `Git` · `Linux`
+<p align="center"><strong>BACKEND</strong>　 Python · Odoo · PostgreSQL · MySQL · Node.js · Laravel · Flask · .NET<br><strong>FRONTEND</strong>　 JavaScript · TypeScript · React · Next.js · Vue · HTML · CSS<br><strong>ENTREGA</strong>　 Docker · Kubernetes · AWS · Azure · OpenShift · Keycloak · Git · Linux</p>
 
 <details><summary><strong>Otras herramientas</strong></summary><br>Power BI · Azure DevOps · WordPress · Google Analytics · Scrum</details>
 
 ## En este momento
 
-- Desarrollando y manteniendo **módulos e integraciones para Odoo**.
-- Profundizando en **React, Next.js y arquitecturas cloud-native**.
-- Buscando colaborar en **proyectos open source de Odoo y herramientas para desarrolladores**.
+<table>
+  <tr><td>⚙️</td><td><strong>Construyendo</strong><br>Módulos e integraciones Odoo para flujos de negocio reales.</td></tr>
+  <tr><td>📚</td><td><strong>Aprendiendo</strong><br>React, Next.js y arquitecturas cloud-native.</td></tr>
+  <tr><td>🤝</td><td><strong>Buscando</strong><br>Colaboraciones open source de Odoo y herramientas para desarrolladores.</td></tr>
+</table>
 
 <p align="center"><strong>Construyendo los sistemas invisibles que mantienen en movimiento el trabajo visible.</strong></p>
