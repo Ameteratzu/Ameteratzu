@@ -23,14 +23,18 @@
 
 ## Herramientas
 
-<p><img src="https://skillicons.dev/icons?i=python,js,ts,php,cs,react,vue,nextjs,html,css,odoo,postgres,mysql,laravel,nodejs,docker,kubernetes,aws,azure,git,linux&perline=11" alt="Python, JavaScript, TypeScript, PHP, C#, React, Vue, Next.js, HTML, CSS, Odoo, PostgreSQL, MySQL, Laravel, Node.js, Docker, Kubernetes, AWS, Azure, Git y Linux" /></p>
+**Backend:** `Python` · `Odoo` · `PostgreSQL` · `MySQL` · `Node.js` · `Laravel` · `Flask` · `.NET`
 
-<details><summary><strong>Más herramientas que uso</strong></summary><br>Power BI · Keycloak · OpenShift · Azure DevOps · Flask · .NET · WordPress · Google Analytics · Scrum</details>
+**Frontend:** `JavaScript` · `TypeScript` · `React` · `Next.js` · `Vue` · `HTML` · `CSS`
 
-## Actividad en GitHub
+**Entrega:** `Docker` · `Kubernetes` · `AWS` · `Azure` · `OpenShift` · `Keycloak` · `Git` · `Linux`
 
-<p align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=Ameteratzu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=a78bfa" alt="Estadísticas de GitHub" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameteratzu&layout=compact&hide_border=true&langs_count=7&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Lenguajes más usados" /></p>
+<details><summary><strong>Otras herramientas</strong></summary><br>Power BI · Azure DevOps · WordPress · Google Analytics · Scrum</details>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Ameteratzu&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=f5f3ff&area=true&hide_border=true" alt="Actividad de contribuciones en GitHub" /></p>
+## Qué encontrarás aquí
+
+- Módulos e integraciones de Odoo pensados para flujos de negocio reales.
+- Experimentos backend, APIs y proyectos centrados en datos.
+- Notas y prototipos de mi aprendizaje continuo en full-stack y cloud-native.
 
 <p align="center"><sub>Siempre aprendiendo. Siempre entregando algo un poco mejor.</sub></p>
