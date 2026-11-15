@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Ameteratzu/Ameteratzu/main/assets/header.svg" alt="Amet Marcelo — Ingeniero de software" /></p>
 
-<p align="center"><a href="./README.md">🇬🇧 Read in English</a> · <a href="https://amet.dev">Sitio web</a> · <a href="https://www.linkedin.com/in/aamet">LinkedIn</a> · <a href="mailto:quispeamet2@gmail.com">Email</a></p>
+<p align="center"><a href="./README.md">[ EN ] Read in English</a> · <a href="https://amet.dev">Sitio web</a> · <a href="https://www.linkedin.com/in/aamet">LinkedIn</a> · <a href="mailto:quispeamet2@gmail.com">Email</a></p>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ingeniero+Backend;Especialista+en+Odoo+%26+ERP;Integraciones+%26+Cloud" alt="Ingeniero Backend · Especialista en Odoo y ERP · Integraciones y Cloud" /></a></p>
 
@@ -20,12 +20,12 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top"><h3>🧩 Ordenar el flujo</h3><p>Módulos Odoo, migraciones ERP y reglas de negocio que sí se entienden.</p></td>
-    <td width="50%" valign="top"><h3>🔌 Conectar la operación</h3><p>APIs Python, integraciones y flujos de datos entre las herramientas de un equipo.</p></td>
+    <td width="50%" valign="top"><h3><img src="./assets/icons/workflow.svg" width="22" height="22" alt="" /> Ordenar el flujo</h3><p>Módulos Odoo, migraciones ERP y reglas de negocio que sí se entienden.</p></td>
+    <td width="50%" valign="top"><h3><img src="./assets/icons/integration.svg" width="22" height="22" alt="" /> Conectar la operación</h3><p>APIs Python, integraciones y flujos de datos entre las herramientas de un equipo.</p></td>
   </tr>
   <tr>
-    <td width="50%" valign="top"><h3>🛡️ Hacerlo confiable</h3><p>PostgreSQL, Docker, CI/CD y cloud con menos sorpresas.</p></td>
-    <td width="50%" valign="top"><h3>🧪 Seguir aprendiendo</h3><p>Experimentos con React, Next.js y arquitecturas cloud-native.</p></td>
+    <td width="50%" valign="top"><h3><img src="./assets/icons/reliable.svg" width="22" height="22" alt="" /> Hacerlo confiable</h3><p>PostgreSQL, Docker, CI/CD y cloud con menos sorpresas.</p></td>
+    <td width="50%" valign="top"><h3><img src="./assets/icons/lab.svg" width="22" height="22" alt="" /> Seguir aprendiendo</h3><p>Experimentos con React, Next.js y arquitecturas cloud-native.</p></td>
   </tr>
 </table>
 
@@ -34,9 +34,9 @@
 <p align="center"><strong>Entender → Integrar → Automatizar → Mejorar</strong></p>
 
 <table>
-  <tr><td>🎯 <strong>Primero el negocio</strong></td><td>La mejor arquitectura facilita el flujo real.</td></tr>
-  <tr><td>🧱 <strong>Simple donde importa</strong></td><td>Límites claros, datos previsibles y código mantenible.</td></tr>
-  <tr><td>🔭 <strong>Curiosidad con propósito</strong></td><td>Aprendo herramientas nuevas cuando resuelven un problema real.</td></tr>
+  <tr><td><img src="./assets/icons/target.svg" width="20" height="20" alt="" /> <strong>Primero el negocio</strong></td><td>La mejor arquitectura facilita el flujo real.</td></tr>
+  <tr><td><img src="./assets/icons/blocks.svg" width="20" height="20" alt="" /> <strong>Simple donde importa</strong></td><td>Límites claros, datos previsibles y código mantenible.</td></tr>
+  <tr><td><img src="./assets/icons/compass.svg" width="20" height="20" alt="" /> <strong>Curiosidad con propósito</strong></td><td>Aprendo herramientas nuevas cuando resuelven un problema real.</td></tr>
 </table>
 
 ## Herramientas
@@ -48,9 +48,9 @@
 ## En este momento
 
 <table>
-  <tr><td>⚙️</td><td><strong>Construyendo</strong><br>Módulos e integraciones Odoo para flujos de negocio reales.</td></tr>
-  <tr><td>📚</td><td><strong>Aprendiendo</strong><br>React, Next.js y arquitecturas cloud-native.</td></tr>
-  <tr><td>🤝</td><td><strong>Buscando</strong><br>Colaboraciones open source de Odoo y herramientas para desarrolladores.</td></tr>
+  <tr><td><img src="./assets/icons/build.svg" width="22" height="22" alt="" /></td><td><strong>Construyendo</strong><br>Módulos e integraciones Odoo para flujos de negocio reales.</td></tr>
+  <tr><td><img src="./assets/icons/learn.svg" width="22" height="22" alt="" /></td><td><strong>Aprendiendo</strong><br>React, Next.js y arquitecturas cloud-native.</td></tr>
+  <tr><td><img src="./assets/icons/collaborate.svg" width="22" height="22" alt="" /></td><td><strong>Buscando</strong><br>Colaboraciones open source de Odoo y herramientas para desarrolladores.</td></tr>
 </table>
 
 <p align="center"><strong>Construyendo los sistemas invisibles que mantienen en movimiento el trabajo visible.</strong></p>
