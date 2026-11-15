@@ -21,6 +21,13 @@
 
 ## Experience in the field
 
+### Altamira Technology · Odoo implementations
+
+I worked for **Altamira Technology**, contributing to Odoo implementations for **Chanaltín, Neomed and Vape Station**. My experience spans module customization and business process integration; I currently implement Odoo **17, 18 and 19** for Peruvian companies.
+
+[About Altamira One](https://altamiraone.pe/nosotros) · [Implementation references](https://www.altamiraone.pe/)
+
+
 <p>I have worked across different kinds of projects — ERP implementations, ecommerce, inventory, APIs, automation and cloud delivery. That variety shaped the way I build: understand the operation first, then connect the right pieces.</p>
 
 <table>
