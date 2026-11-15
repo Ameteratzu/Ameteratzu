@@ -2,6 +2,8 @@
 
 <p align="center"><a href="./README.md">🇬🇧 Read in English</a> · <a href="https://amet.dev">Sitio web</a> · <a href="https://www.linkedin.com/in/aamet">LinkedIn</a> · <a href="mailto:quispeamet2@gmail.com">Email</a></p>
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Ingeniero+Backend;Especialista+en+Odoo+%26+ERP;Integraciones+%26+Cloud" alt="Ingeniero Backend · Especialista en Odoo y ERP · Integraciones y Cloud" /></a></p>
+
 <h2 align="center">Ingeniero de software enfocado en crear sistemas útiles y confiables.</h2>
 
 <p align="center">Construyo plataformas backend, personalizo Odoo y conecto las piezas que hacen funcionar un negocio.<br>Desde Lima, Perú · Disponible para colaborar en open source y resolver problemas interesantes.</p>

@@ -30,9 +30,13 @@
   </defs>
 
   <rect width="1200" height="290" rx="26" fill="url(#bg)"></rect>
-  <rect width="1200" height="290" rx="26" fill="url(#glow)"></rect>
+  <rect width="1200" height="290" rx="26" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="7s" repeatCount="indefinite"></animate>
+  </rect>
 
-  <path d="M40 230 C 260 140, 440 280, 720 170 C 920 90, 1040 135, 1160 78" fill="none" stroke="url(#stroke)" stroke-width="2" opacity="0.95"></path>
+  <path d="M40 230 C 260 140, 440 280, 720 170 C 920 90, 1040 135, 1160 78" fill="none" stroke="url(#stroke)" stroke-width="2" stroke-dasharray="80 160" opacity="0.95">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="12s" repeatCount="indefinite"></animate>
+  </path>
   <path d="M40 252 C 260 165, 480 295, 740 190 C 940 110, 1040 160, 1160 102" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.25"></path>
 
   <g filter="url(#softShadow)">
