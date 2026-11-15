@@ -27,6 +27,14 @@ Trabajé para **Altamira Technology**, participando en implementaciones de Odoo 
 
 [Conocer Altamira One](https://altamiraone.pe/nosotros) · [Referencias de implementación](https://www.altamiraone.pe/)
 
+<table>
+  <tr><td valign="top"><img src="./assets/icons/learn.svg" width="26" alt="" /><h3>AndeanVet</h3><strong>Localización peruana · RR. HH. · Nómina</strong><p>Trabajé ampliamente en la localización y personalización de recursos humanos y nómina, adaptando Odoo a las necesidades de la empresa.</p></td></tr>
+  <tr><td valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Neomed</h3><strong>Implementación integral de Odoo</strong><p>Participé en toda la implementación, incluyendo la adaptación de la solución y sus personalizaciones a los procesos de la empresa.</p></td></tr>
+  <tr><td valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Solemsac / Soluciones de Empaque</h3><strong>Implementación integral de Odoo</strong><p>Trabajé en toda la implementación del ERP, adaptando la plataforma a las necesidades operativas del negocio.</p></td></tr>
+</table>
+
+Parte de esta experiencia corresponde a proyectos internos y repositorios privados. Los casos describen mi participación en la implementación y personalización; incluyen trabajo sobre módulos propios y de terceros.
+
 
 <p>He trabajado en proyectos de distintos tipos —implementaciones ERP, ecommerce, inventarios, APIs, automatización y entregas cloud—. Esa variedad define mi forma de construir: primero entiendo la operación y luego conecto las piezas correctas.</p>
 

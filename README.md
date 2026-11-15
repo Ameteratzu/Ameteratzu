@@ -27,6 +27,14 @@ I worked for **Altamira Technology**, contributing to Odoo implementations for *
 
 [About Altamira One](https://altamiraone.pe/nosotros) · [Implementation references](https://www.altamiraone.pe/)
 
+<table>
+  <tr><td valign="top"><img src="./assets/icons/learn.svg" width="26" alt="" /><h3>AndeanVet</h3><strong>Peruvian localization · HR · Payroll</strong><p>Worked extensively on localization and HR and payroll customization, adapting Odoo to the company's requirements.</p></td></tr>
+  <tr><td valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Neomed</h3><strong>End-to-end Odoo implementation</strong><p>Contributed throughout the implementation, adapting the solution and its customizations to the company's business processes.</p></td></tr>
+  <tr><td valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Solemsac / Soluciones de Empaque</h3><strong>End-to-end Odoo implementation</strong><p>Worked throughout the ERP implementation, adapting the platform to the operational needs of the business.</p></td></tr>
+</table>
+
+Some of this experience comes from internal projects and private repositories. These cases describe my implementation and customization work, including work with both custom and third-party modules.
+
 
 <p>I have worked across different kinds of projects — ERP implementations, ecommerce, inventory, APIs, automation and cloud delivery. That variety shaped the way I build: understand the operation first, then connect the right pieces.</p>
 
