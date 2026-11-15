@@ -1,4 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Ameteratzu/Ameteratzu/main/assets/header.svg" alt="Amet Marcelo — Software Engineer" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
+  <img src="./assets/header-light.svg" alt="Amet Marcelo — Odoo and Backend Engineer. Odoo 17, 18 and 19 · Lima, Peru" width="1200" />
+</picture>
 
 <p align="center"><a href="./README.es.md">[ ES ] Leer en español</a> · <a href="https://amet.dev">Website</a> · <a href="https://www.linkedin.com/in/aamet">LinkedIn</a> · <a href="mailto:quispeamet2@gmail.com">Email</a></p>
 
