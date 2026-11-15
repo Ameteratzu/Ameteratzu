@@ -46,7 +46,23 @@ Parte de esta experiencia corresponde a proyectos internos y repositorios privad
   </tr>
 </table>
 
-## Arquitectura destacada
+## Proyectos independientes
+
+Desarrollo productos SaaS, ecommerce y plataformas de gestión para necesidades concretas. Selección de proyectos publicados en [amet.dev](https://amet.dev/).
+
+<table>
+<tr>
+<td width="50%" valign="top"><img src="./assets/icons/integration.svg" width="26" alt="" /><h3>Apifyx</h3><p>Consultas de información SUNAT y validación empresarial para apoyar procesos administrativos y comerciales en Perú.</p><a href="https://apifyx.amet.dev/">Explorar Apifyx →</a></td>
+<td width="50%" valign="top"><img src="./assets/icons/workflow.svg" width="26" alt="" /><h3>Legal99</h3><p>Gestión jurídica que centraliza clientes, casos, agenda, documentos y facturación.</p><a href="https://applegal99.com/">Explorar Legal99 →</a></td>
+</tr><tr>
+<td valign="top"><img src="./assets/icons/build.svg" width="26" alt="" /><h3>Entryx</h3><p>Gestión de eventos, tickets y control de asistencia: aforo, registro personalizado, exportaciones y seguimiento.</p><a href="https://entryx.pe/">Explorar Entryx →</a></td>
+<td valign="top"><img src="./assets/icons/blocks.svg" width="26" alt="" /><h3>Centro Joyero</h3><p>Ecommerce de joyería con catálogo y experiencia de marca. Desarrollado con React y Vite.</p><a href="https://centrojoyero.com.pe/">Visitar Centro Joyero →</a></td>
+</tr>
+</table>
+
+También: [Imporisel](https://imporisel.com/), [Bodapass](https://bodapass.com/), [APYCE Libros](https://librosapyce.com.pe/), [Madelly](https://madelly.pe/) y [EPIK Project](https://epik-project.com/).
+
+### Arquitectura AWS · Caso técnico
 
 <table>
   <tr><td width="15%" align="center"><img src="./assets/icons/target.svg" width="34" alt="" /></td><td><strong>Arquitectura CI/CD sobre AWS</strong><br><sub>GitHub Actions, Amplify, EC2, API Gateway, Aurora/RDS, Redis y S3 trabajando juntos en un flujo de entrega claro.</sub><br><a href="https://www.linkedin.com/feed/update/urn:li:activity:7481566963144564736/">Ver el análisis de la arquitectura en LinkedIn →</a></td></tr>
